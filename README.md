@@ -2,6 +2,13 @@
 
 A [BLoC (Business Logic Component)](https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1) implementation for SwiftUI.
 
+## Disclaimer
+
+This Repo is not intended to be as a ready to use solution. It has no tests nor documentation.
+It is an experimental adoption of Flutter BLoCs to be used with the brand new SwiftUI Framework.
+
+So feel free to check this Swift Package out, modify it and play around. 
+
 ## Example
 
 ```swift
